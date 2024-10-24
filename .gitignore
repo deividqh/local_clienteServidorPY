@@ -1,0 +1,22 @@
+#archivos dvd de test de clases.
+/tester/
+notas.txt
+*.xlsm
+main2.py
+FormularioChat.py
+ModeloFormulario.jpg
+VentanaLateralClick.py
+mueveForm.py
+#archivos dvd de test de clases.
+over*.py
+#Archivos de backup
+*.bak
+# Archivos temporales.
+tmp/
+# Ignorar el entorno virtual
+venv/
+# Ignorar archivos compilados
+__pycache__/
+*.py[cod]
+# Ignorar archivos de logs
+*.log
